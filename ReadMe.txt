@@ -3,3 +3,5 @@
 #	let's start git!
 #	remove the undo file.
 #	set noundofile.
+This is the test code of example B1.
+	ZhouHuang
